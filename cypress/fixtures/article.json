@@ -1,0 +1,39 @@
+{
+    "articles": [
+        {
+            "slug": "westride-QA-leaning-15-48457",
+            "title": "test response 1",
+            "description": "westride QA leaning automate",
+            "body": "1234567890",
+            "tagList": [],
+            "createdAt": "2024-08-09T06:12:20.728Z",
+            "updatedAt": "2024-08-09T06:12:20.728Z",
+            "favorited": false,
+            "favoritesCount": 0,
+            "author": {
+                "username": "aunwika",
+                "bio": null,
+                "image": "https://api.realworld.io/images/smiley-cyrus.jpeg",
+                "following": false
+            }
+        },
+        {
+            "slug": "westride-QA-leaning-14-48457",
+            "title": "test response 2",
+            "description": "westride QA leaning automate",
+            "body": "1234567890",
+            "tagList": [],
+            "createdAt": "2024-08-09T06:10:23.759Z",
+            "updatedAt": "2024-08-09T06:10:23.759Z",
+            "favorited": false,
+            "favoritesCount": 0,
+            "author": {
+                "username": "aunwika",
+                "bio": null,
+                "image": "https://api.realworld.io/images/smiley-cyrus.jpeg",
+                "following": false
+            }
+        }
+    ],
+    "articlesCount": 2
+}
